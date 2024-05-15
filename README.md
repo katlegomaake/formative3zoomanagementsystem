@@ -26,7 +26,7 @@
 
 - Open the project in Visual Studio.
 - Build the solution to compile the code.
-- Run the application by pressing `Ctrl + F5`.
+- Run the application by pressing `Ctrl + F5`or use the command "dotnet run".
 
 ---
 
