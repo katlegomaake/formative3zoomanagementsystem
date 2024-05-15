@@ -10,7 +10,7 @@
 
 - Welcome to the Virtual Zoo Management System.
 - This system simulates the management of animals in a zoo, allowing users to interact with various animals.
-- Developed by: [Your Name]
+- Developed by: maake katlego
 
 ---
 
